@@ -1,0 +1,15 @@
+.nav {
+    width: 98vw;
+    height: 100vh;
+    list-style:lower-greek; /* Remove the default list bullets */
+    padding: 0; /* Remove default padding */
+}
+
+.nav li {
+    display: inline-block; /* Display list items on the same line */
+    margin-right: 30px; /* Add some spacing between the links */
+}
+
+.nav a {
+    text-decoration: none;
+}
